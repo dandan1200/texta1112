@@ -1,0 +1,2 @@
+fields "," 2
+replace "@uni.sydney.edu.au" "" # extract unikey
